@@ -49,3 +49,8 @@ nav ul li a {
 nav ul li a:hover {
     border-bottom: 1px solid #ff6b3f;
 }
+.content {
+    max-width: 550px;
+    color: #fff;
+    margin-top: 10%;
+}
