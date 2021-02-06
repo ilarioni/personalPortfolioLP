@@ -54,3 +54,16 @@ nav ul li a:hover {
     color: #fff;
     margin-top: 10%;
 }
+h1 {
+    font-size: 56px;
+    line-height: 70px;
+    letter-spacing: 1px;
+    margin: 15px 0;
+}
+p {
+    font-size: 15px;
+    line-height: 29px;
+}
+span {
+    color: #f15120;
+}
