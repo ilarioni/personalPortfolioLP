@@ -99,3 +99,8 @@ button {
     margin: 36px 30px;
     cursor: pointer; 
 }
+.social-links {
+    width: 80px;
+    position: absolute;
+    bottom: 20px;
+}
