@@ -67,3 +67,21 @@ p {
 span {
     color: #f15120;
 }
+.btn-box {
+    margin-top: 20px;
+}
+button {
+    width: 150px;
+    border: 1px solid #f15120;
+    color: #fff;
+    padding: 12px;
+    margin-right: 12px;
+    border-radius: 25px;
+    cursor: pointer; 
+    background: #ff6b3f;
+}
+
+.btn {
+    border: 1px solid #fff;
+    background: transparent;
+}
