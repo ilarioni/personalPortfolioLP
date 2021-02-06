@@ -104,3 +104,9 @@ button {
     position: absolute;
     bottom: 20px;
 }
+.social-links img {
+    height: 15px;
+    display: block;
+    margin: 35px auto;
+    cursor: pointer;
+}
