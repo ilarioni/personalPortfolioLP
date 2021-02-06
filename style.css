@@ -85,3 +85,11 @@ button {
     border: 1px solid #fff;
     background: transparent;
 }
+.sidebar {
+    width: 80px;
+    height: 100vh;
+    background: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
