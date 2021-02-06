@@ -15,3 +15,14 @@
     margin: 0 auto;
     padding: 0 90px;
 }
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 0;
+}
+nav {
+    flex: 1;
+    text-align: right;
+}
