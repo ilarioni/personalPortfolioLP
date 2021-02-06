@@ -93,3 +93,9 @@ button {
     top: 0;
     left: 0;
 }
+
+.logo-icon {
+    width: 20px;
+    margin: 36px 30px;
+    cursor: pointer; 
+}
